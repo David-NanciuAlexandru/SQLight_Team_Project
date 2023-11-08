@@ -7,8 +7,6 @@ SQLight is a simple database management system implemented in C++. It provides b
 - Popa Florian
 - Nastase Alexandru
 
-SQLight is a simple database management system implemented in C++. It provides basic functionalities for creating tables, inserting data, and performing SQL-like operations.
-
 ## Installation
 
 To use SQLight, simply clone the repository and compile the source code using a C++ compiler that supports C++11 or later.
